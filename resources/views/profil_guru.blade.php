@@ -24,7 +24,7 @@
             <!-- Laporan Akhir -->
             <div class="laporan">
                 <img src="../assets/laporan.png" alt="logo laporan">
-                <a href="#">
+                <a href="laporan_siswa.blade.php">
                     <h4>Laporan Akhir</h4>
                 </a>
             </div>
