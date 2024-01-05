@@ -61,7 +61,7 @@
     <div class="modal-content">
         <h2>Membuat Landing Page</h2>
         <p>Pada hari ini saya membuat halaman dengan menggunakan plugin yang terdapat pada wordpress dll</p>
-        <img src="../assets/foto.jpeg" alt="Foto Kegiatan" style="width: 250px; height: 250px;">
+        <img src="../assets/klub.jpg" alt="Foto Kegiatan" style="width: 250px; height: auto;">
     </div>
 </div>
 
